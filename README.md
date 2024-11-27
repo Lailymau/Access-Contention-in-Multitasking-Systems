@@ -1,4 +1,4 @@
-# 🌟 RTOS LED Control Project
+# Exercise 5 - Demonstrating Resource Contention in Multitasking Systems
 
 **Deskripsi Singkat**  
 Proyek ini menggunakan RTOS (Real-Time Operating System) untuk mengontrol LED pada mikrokontroler STM32. Dua tugas RTOS dikonfigurasikan untuk mengatur LED hijau dan merah secara bergantian dengan akses data bersama yang aman.
