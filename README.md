@@ -12,6 +12,11 @@ Proyek ini menggunakan RTOS (Real-Time Operating System) untuk mengontrol LED pa
 
 ---
 
+## 📂 Node Diagram
+![image](https://github.com/user-attachments/assets/43c486cf-fb34-4313-8343-d65454baaaa0)
+
+---
+
 ## 🛠️ **Peralatan**
 - STM32 Microcontroller.  
 - IDE STM32CubeIDE.  
@@ -44,3 +49,4 @@ Proyek ini menggunakan RTOS (Real-Time Operating System) untuk mengontrol LED pa
 ---
 
 ## 📊 **Hasil Percobaan**
+https://github.com/user-attachments/assets/36247127-44c3-4fca-9767-a421523ea4a4
